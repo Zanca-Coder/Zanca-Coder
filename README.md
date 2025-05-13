@@ -81,7 +81,7 @@ Me chamo Gustavo Mendes Zanca, tenho 23 anos e sou natural de São Paulo. Sou fo
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="180" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Zanca-Coder&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -89,7 +89,7 @@ Me chamo Gustavo Mendes Zanca, tenho 23 anos e sou natural de São Paulo. Sou fo
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zanca-Coder&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
