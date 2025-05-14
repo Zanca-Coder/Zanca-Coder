@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Gustavo Mendes Zanca, tenho 23 anos e sou natural de São Paulo. Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade de Marília. Atualmente estou estudando para aprimorar meus conhecimentos como desenvolvedor e assim conseguir um emprego.
+Me chamo Gustavo Mendes Zanca, tenho 23 anos e sou de São Paulo. Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade de Marília. Atualmente estou estudando para aprimorar meus conhecimentos como desenvolvedor e assim conseguir um emprego.
 <p align="left">
     <a href="https://github.com/Zanca-Coder?tab=followers">
         <img 
